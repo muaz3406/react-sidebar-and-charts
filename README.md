@@ -1,10 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>Sidebar and Charts with date range</h3>
+
+<img src="src\assets\dashboard.PNG">
+
 
 ## to run
 
 follow these scripts
 
-npm i
+npm i <br/>
 npm start
 
 ## sidebar
